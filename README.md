@@ -68,7 +68,7 @@
 
 > 重要提醒：所有非官方中文版均为盗版，存在封号、信息泄露风险，建议使用官方版汉化！
 
-方法1：在Telegram内搜索==「@dcg556677」==加入频道，点击频道内汉化按钮，点击apply（应用）即可；
+方法1：在Telegram内搜索「@dcg556677」加入频道，点击频道内汉化按钮，点击apply（应用）即可；
 方法2：直接访问汉化链接：[https://t.me/setlanguage/zh-hans-beta](https://t.me/setlanguage/zh-hans-beta)；
 方法3：打开Telegram，将上述汉化链接发送给任意联系人，点击链接即可完成汉化，点击apply（应用）即可；。
 
